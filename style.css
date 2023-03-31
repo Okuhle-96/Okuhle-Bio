@@ -1,0 +1,52 @@
+body {
+    background-color: lightcoral;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.image {
+    width: 20%;
+    margin: auto;
+}
+
+.image img {
+    width: 250px;
+    height: 250px;
+    margin: autos;
+    border-radius: 100%
+}
+
+.heading{
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+    font-style: oblique;
+    font-family: monospace;
+}
+
+.heading p {
+    width: 40%;
+    margin: auto;
+    font-size: 17px;
+}
+
+.links {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+.links a {
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 70px;
+    color: white;
+    font-style: oblique;
+    font-family: monospace;
+    text-transform: uppercase;
+    font-size: large;
+    border-radius: 15px;
+    border: 3px solid white;
+}
